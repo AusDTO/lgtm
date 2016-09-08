@@ -1,9 +1,9 @@
 package web
 
 import (
-	"github.com/lgtmco/lgtm/cache"
-	"github.com/lgtmco/lgtm/router/middleware/session"
-	"github.com/lgtmco/lgtm/shared/token"
+	"github.com/AusDTO/lgtm/cache"
+	"github.com/AusDTO/lgtm/router/middleware/session"
+	"github.com/AusDTO/lgtm/shared/token"
 
 	"github.com/gin-gonic/gin"
 )

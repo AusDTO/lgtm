@@ -4,13 +4,13 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/lgtmco/lgtm/api"
-	"github.com/lgtmco/lgtm/router/middleware/access"
-	"github.com/lgtmco/lgtm/router/middleware/header"
-	"github.com/lgtmco/lgtm/router/middleware/session"
-	"github.com/lgtmco/lgtm/web"
-	"github.com/lgtmco/lgtm/web/static"
-	"github.com/lgtmco/lgtm/web/template"
+	"github.com/AusDTO/lgtm/api"
+	"github.com/AusDTO/lgtm/router/middleware/access"
+	"github.com/AusDTO/lgtm/router/middleware/header"
+	"github.com/AusDTO/lgtm/router/middleware/session"
+	"github.com/AusDTO/lgtm/web"
+	"github.com/AusDTO/lgtm/web/static"
+	"github.com/AusDTO/lgtm/web/template"
 )
 
 func Load(middleware ...gin.HandlerFunc) http.Handler {

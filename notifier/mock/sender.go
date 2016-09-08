@@ -1,6 +1,6 @@
 package mock
 
-import "github.com/lgtmco/lgtm/notifier"
+import "github.com/AusDTO/lgtm/notifier"
 import "github.com/stretchr/testify/mock"
 
 type Sender struct {

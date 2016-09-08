@@ -3,10 +3,10 @@ package web
 import (
 	"regexp"
 
-	"github.com/lgtmco/lgtm/cache"
-	"github.com/lgtmco/lgtm/model"
-	"github.com/lgtmco/lgtm/remote"
-	"github.com/lgtmco/lgtm/store"
+	"github.com/AusDTO/lgtm/cache"
+	"github.com/AusDTO/lgtm/model"
+	"github.com/AusDTO/lgtm/remote"
+	"github.com/AusDTO/lgtm/store"
 
 	log "github.com/Sirupsen/logrus"
 	"github.com/gin-gonic/gin"

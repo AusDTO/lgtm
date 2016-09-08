@@ -5,8 +5,8 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/lgtmco/lgtm/model"
-	"github.com/lgtmco/lgtm/remote"
+	"github.com/AusDTO/lgtm/model"
+	"github.com/AusDTO/lgtm/remote"
 )
 
 // GetRepos returns the list of user repositories from the cache

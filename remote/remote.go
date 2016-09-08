@@ -5,7 +5,7 @@ package remote
 import (
 	"net/http"
 
-	"github.com/lgtmco/lgtm/model"
+	"github.com/AusDTO/lgtm/model"
 	"golang.org/x/net/context"
 )
 

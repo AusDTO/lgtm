@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/lgtmco/lgtm/version"
+	"github.com/AusDTO/lgtm/version"
 
 	"github.com/gin-gonic/gin"
 )

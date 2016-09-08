@@ -3,9 +3,9 @@ package session
 import (
 	"net/http"
 
-	"github.com/lgtmco/lgtm/model"
-	"github.com/lgtmco/lgtm/shared/token"
-	"github.com/lgtmco/lgtm/store"
+	"github.com/AusDTO/lgtm/model"
+	"github.com/AusDTO/lgtm/shared/token"
+	"github.com/AusDTO/lgtm/store"
 
 	"github.com/gin-gonic/gin"
 )

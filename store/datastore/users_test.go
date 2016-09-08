@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/franela/goblin"
-	"github.com/lgtmco/lgtm/model"
+	"github.com/AusDTO/lgtm/model"
 )
 
 func Test_userstore(t *testing.T) {

@@ -3,7 +3,7 @@ package mock
 import (
 	"net/http"
 
-	"github.com/lgtmco/lgtm/model"
+	"github.com/AusDTO/lgtm/model"
 	"github.com/stretchr/testify/mock"
 )
 
